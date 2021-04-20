@@ -1,0 +1,39 @@
+{
+    "marca": [
+      {
+        "sigla": "1",
+        "nome": "FIAT",
+        "modelo": [
+            "147 C/ CL",
+            "147 Furgão (todos)", 
+            "147 Pick-Up (todas)",
+            "500 ABARTH MULTIAIR 1.4 TB 16V 3p",
+            "500 Cabrio Dualogic Flex 1.4 8V",
+            "500 Cabrio Flex 1.4 8V Mec.",                      
+            "500 Cabrio/500 Coupe Gucci/Flex 1.4 Aut.",                
+            "500 Cult 1.4 Flex 8V EVO Dualogic",
+            "500 Cult 1.4 Flex 8V EVO Mec.",
+            "500 LOUNGE 1.4 16V 100cv  Mec.",
+            "500 LOUNGE 1.4 16V 100cv Dualogic",
+            "500 Lounge Air 1.4/ 1.4 Flex 16V Aut.",                             
+            "500 SPORT 1.4 16V 100cv  Dualogic"
+        ]
+      },
+      {
+        "sigla": "2",
+        "nome": "CITROEN",
+        "modelo": [
+            "AIRCROSS 100 Anos 1.6 Flex 16V Aut.",
+            "AIRCROSS BUSINESS 1.6 Flex 16V 5p Mec.",
+            "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Aut.",                                 
+            "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Mec.",
+            "AIRCROSS Exclusive 1.6 Flex 16V 5p Aut.",                                    
+            "AIRCROSS Exclusive 1.6 Flex 16V 5p Mec.",
+            "AIRCROSS Feel 1.6 Flex 16V 5p Aut.",
+            "AIRCROSS Feel 1.6 Flex 16V 5p Mec.",
+            "AIRCROSS GL 1.6 Flex 16V 5p Mec."
+      
+        ]
+      }
+    ]
+}
